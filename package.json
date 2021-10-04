@@ -1,0 +1,28 @@
+{
+  "name": "strapi-plugin-themes",
+  "version": "0.0.0",
+  "description": "This plugin allows users to select or create a theme from the Kaylex Tech backend to display on there website.",
+  "strapi": {
+    "name": "Themes",
+    "icon": "palette",
+    "description": "Select or Create a Theme for your Website."
+  },
+  "dependencies": {},
+  "author": {
+    "name": "Kaylex Tech",
+    "email": "it@kaylex.tech",
+    "url": "https://kaylex.tech"
+  },
+  "maintainers": [
+    {
+      "name": "Kaylex Tech",
+      "email": "it@kaylex.tech",
+      "url": "https://kaylex.tech"
+    }
+  ],
+  "engines": {
+    "node": ">=10.16.0 <=14.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "All Rights Reserved"
+}
